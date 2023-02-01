@@ -1,4 +1,7 @@
-//  Task3 Реализовать алгоритм сортировки слиянием
+// Реализовать алгоритм сортировки слиянием
+
+
+package HW3;
 
 public class task3{
     public static void main(String[] args) {
